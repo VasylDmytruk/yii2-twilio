@@ -1,6 +1,6 @@
 {
     "name": "autoxloo/yii2-twilio",
-    "description": "Yii2 wrap on Twilio sms PHP SDK",
+    "description": "Yii2 wrap of Twilio sms PHP SDK",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
